@@ -1,0 +1,1 @@
+<div align=center><img height=100% width=60% src='LeNet.png'></div>
